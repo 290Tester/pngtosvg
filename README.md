@@ -28,3 +28,18 @@ Installation
 sudo apt-get install imagemagick pdf2svg
 There is another way
 su -c apt-get install imagemagick pdf2svg
+# 使用方法
+git clone https://github.com/290Tester/pngtosvg/.git
+debian的情况下
+./png_to_svg[Debian]
+Termux
+./png_to_svg[Termux]
+记得给可执行权限
+# How to use
+git clone https://github.com/290Tester/pngtosvg/.git
+Debian case
+./png_to_svg[Debian]
+Termux
+./png_to_svg[Termux]
+Remember to give executable permissions
+
